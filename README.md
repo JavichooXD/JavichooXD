@@ -1,6 +1,7 @@
 <img width="2752" height="1536" alt="Gemini_Generated_Image_2v8ylh2v8ylh2v8y" src="https://github.com/user-attachments/assets/d82cb04f-0d02-4e5b-9249-9f812d51108a" /><div align="center">
 
-![Uploading Gemini_Generated_Image_2v8ylh2v8ylh2v8y.png…]()
+![Uploading ZeusBanner.png…]
+
 
 
 # ¡Hola, mundo! Soy Javier Paredes (Javicho) 👋
