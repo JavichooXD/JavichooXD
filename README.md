@@ -1,6 +1,6 @@
-<div align="center">
+<img width="2752" height="1536" alt="Gemini_Generated_Image_2v8ylh2v8ylh2v8y" src="https://github.com/user-attachments/assets/d82cb04f-0d02-4e5b-9249-9f812d51108a" /><div align="center">
 
-<img width="1024" height="1024" alt="WhatsApp Image 2026-05-14 at 12 35 11 PM" src="https://github.com/user-attachments/assets/125b7a5f-4acf-42a7-b604-0881f7171f0e" />
+![Uploading Gemini_Generated_Image_2v8ylh2v8ylh2v8y.png…]()
 
 
 # ¡Hola, mundo! Soy Javier Paredes (Javicho) 👋
@@ -18,8 +18,10 @@ Soy un desarrollador apasionado por la tecnología y la arquitectura de software
 Transformo ideas complejas en código limpio y funcional, desde el diseño de la base de datos hasta la experiencia del usuario final.
 
 *   📦 **SaaS de Gestión de Inventario (Multitenant):** Actualmente liderando el backend y la arquitectura de datos de una plataforma B2B utilizando **React, Node.js y Supabase (con políticas estrictas RLS)** para aislar los datos de múltiples empresas simultáneamente.
-*   🏥 **Sistema de Historia Clínica Digital (`web-clinica`):** Desarrollo integral de una plataforma web segura y optimizada para la gestión de pacientes y doctores en la **Clínica Angeles de la Salud**.
-*   🏛️ **Sistema de Gestión de Registro Civil:** Software institucional diseñado y desplegado durante mis prácticas para digitalizar, organizar y acelerar procesos gubernamentales internos.
+*   🏥 **Sistema de Historia Clínica Digital:** [Ver Repositorio (`web_clinica`)](https://github.com/JavichooXD/web_clinica.git) <br/>
+    Desarrollo de una plataforma web especializada en optimizar el registro y la gestión interna de pacientes para la **Clínica Angeles de la Salud**.
+*   🌐 **Página Web Institucional:** Creación del portal web oficial para la **Clínica Angeles de la Salud**, un proyecto independiente enfocado en la presencia digital de la institución.
+*   🏛️ **Sistema de Gestión de Registro Civil:** Software desarrollado durante mis prácticas pre-profesionales para digitalizar, gestionar y agilizar los procesos y registros internos de una municipalidad.
 
 ---
 
@@ -50,7 +52,7 @@ Transformo ideas complejas en código limpio y funcional, desde el diseño de la
 No todo es escribir `console.log()` en mi día a día. Cuando cierro el editor:
 *   🏋️‍♂️ **Disciplina de Hierro:** Me encontrarás en el gimnasio cuidando mi salud, fuerza y estética. El entrenamiento físico es mi mejor *debugger*.
 *   🎧 **Playlist Multiversal:** Programo mejor con música. Mi Spotify es un caos hermoso: un día resuelvo bugs escuchando a *Bad Bunny* o *Mac DeMarco*, y al siguiente con *Billie Eilish, Mon Laferte, José José, Luis Miguel, Cuco* o *Linkin Park*.
-*   🐕 **Dog Lover:** Soy el compañero incondicional de **Zeus**, mi perro y mi QA Tester personal. (¡Ese es él en la cabecera, versión Cyber-Developer!).
+*   🐕 **Dog Lover:** Soy el compañero incondicional de **Zeus**, mi perro y mi QA Tester personal. (¡Ese es él en la cabecera!).
 
 ---
 
